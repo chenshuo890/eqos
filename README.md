@@ -2,8 +2,6 @@
 
 ![](https://img.shields.io/badge/license-GPLV3-brightgreen.svg?style=plastic "License")
 
-![](https://github.com/zhaojh329/image/blob/master/eqos.png)
-
 # Features
 * Support speed limit based on IP address
 * No marking by iptables
@@ -11,7 +9,7 @@
 
 # Install to OpenWRT/LEDE
 	
-	git clone https://github.com/zhaojh329/eqos.git
+	git clone https://github.com/chenshuo890/eqos.git
 	cp -r eqos LEDE_DIR/package/eqos
 	
 	cd LEDE_DIR
